@@ -14,3 +14,23 @@ To analyze user listening behavior on Spotify using raw data and transform it in
 7) What is the total number of unique plays (URIs)?
 
 - Dashboard Interaction <a href="https://github.com/satyamkale2004/Spotify_Data_Analysis/blob/main/Spotify_Dashboard.png">View Dashboard <a/>
+## Process Followed:
+i) Data Collection
+- Obtained raw Spotify streaming data (CSV/Excel format).
+  
+ii) Data Cleaning
+1) Removed duplicates
+2) Handled missing/null values
+3) Standardized date and time columns
+4) Extracted month and day from date fields
+5) Normalized text formatting
+
+iii) Data Analysis
+1) Grouped and summarized data using pivot tables
+2) Performed time series and categorical analysis
+3) Derived metrics for skips, shuffles, start reasons, etc.
+   
+iv) Data Visualization in Excel
+1) Built interactive slicers for Year and Month
+2) Created bar, pie, and donut charts for KPI visualization
+3) Applied professional formatting for clean UI presentation
