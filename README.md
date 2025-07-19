@@ -34,3 +34,6 @@ iv) Data Visualization in Excel
 1) Built interactive slicers for Year and Month
 2) Created bar, pie, and donut charts for KPI visualization
 3) Applied professional formatting for clean UI presentation
+
+## Dashboard
+<img width="1853" height="610" alt="Spotify_Dashboard" src="https://github.com/user-attachments/assets/54682f1a-8022-46e0-99cc-46dcf3d7fec9" />
