@@ -40,11 +40,10 @@ iv) Data Visualization in Excel
 
 ## Project Insights:
 1) Most music starts were initiated manually through track selection.
-2) Tuesday had the highest number of plays, suggesting user engagement early in the week.
-3) Shuffle mode was used in 21% of plays, indicating preference for sequential listening.
-4) 83% of songs were played completely, while 17% were skipped.
-5) Users primarily streamed music through the Android platform.
-6) A total of 1449 unique track plays were recorded.
+2) Shuffle mode was used in 21% of plays, indicating preference for sequential listening.
+3) 83% of songs were played completely, while 17% were skipped.
+4) Users primarily streamed music through the Android platform.
+5) A total of 1449 unique track plays were recorded.
 
 ## Final Conclusion:
 This project effectively highlights how data analytics can be used to understand personal or user listening behavior on platforms like Spotify. By leveraging Excel for data transformation and dashboarding, this analysis provides clear and interactive insights into habits and trends — valuable for both users and music platform strategists.
